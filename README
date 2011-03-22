@@ -1,0 +1,19 @@
+======================================================================
+= README (Arduino Experiments)                                       =
+= URL: https://github.com/hmbusch/Arduino-Experiments                =
+======================================================================
+
+This little repository is supposed to store and manage the code that
+I create when experimenting with the Arduino platform and try to
+figure out how to make certain things happen.
+I chose Github because I not only want my files to be safe from data
+loss but also safe from my overly nervous CTRL+S reflexes ;-)
+
+If you happen to stumble upon this: Enjoy! But beware, these things
+might not always work. 
+
+Everything in here is published under a 
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 
+
+license.
